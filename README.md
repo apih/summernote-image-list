@@ -8,7 +8,7 @@ The data must be in `JSON` format.
 Selecting an image in the list will insert it into the editor.
 
 ## Dependencies
-- [Bootstrap](http://getbootstrap.com/): HTML markup in the code depends on Bootstrap 3's styling.
+- [Bootstrap](http://getbootstrap.com/): `HTML` markup in the code depends on Bootstrap 3's styling.
 - [Font Awesome](http://fontawesome.io/): Use some icons for button and spinner
 
 
@@ -73,3 +73,7 @@ echo json_encode($response);
 die();
 ?>
 ```
+
+## License
+
+This plugin may be freely distributed and is licensed under the MIT license.
